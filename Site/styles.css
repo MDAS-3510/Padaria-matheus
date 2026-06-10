@@ -1,0 +1,18 @@
+
+
+/* Uniformiza todas as imagens dos cards */
+.card-img-top {
+    height: 200px;
+    /* Ajuste essa altura conforme necessário */
+    object-fit: cover;
+    /* Mantém a proporção e corta o excesso */
+    object-position: center;
+    /* Centraliza a imagem */
+    width: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+
+
+
